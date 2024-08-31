@@ -1,1 +1,1 @@
-# SalesAnalysis
+Objective: Conduct a comprehensive analysis of e-commerce sales data to identify key trends, patterns, and performance metrics. Develop an interactive dashboard with dynamic visualizations to provide actionable insights, enabling data-driven decision-making and strategic optimization of sales processes.Tools used: Microsoft Excel and Dataset from - Kaggle
